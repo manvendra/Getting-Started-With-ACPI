@@ -11,6 +11,7 @@ The following platforms will require fixing:
 
 * Mobile Icelake(currently Dell and Lenovo are the 2 known with this issue)
 * Asus Z490 (Gigabyte and AsRock users are fine, whether MSI currently this is unknown)
+* `Do Asus Z590 Motherboard also require this SSDT ?` 
 
 ## Methods to make this SSDT
 
